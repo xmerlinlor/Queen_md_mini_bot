@@ -1,0 +1,15 @@
+{
+  "owners": [],
+  "premium": [],
+  "bannedUsers": [],
+  "users": {},
+  "groups": {},
+  "warns": {},
+  "settings": {
+    "prefix": ".",
+    "mode": "public",
+    "autoRead": false,
+    "autoTyping": false,
+    "autoRecording": false
+  }
+}
